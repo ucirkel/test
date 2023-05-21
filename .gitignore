@@ -6,4 +6,5 @@
 .settings/
 *.gem
 _site
+_site_*
 vendor/bundle
