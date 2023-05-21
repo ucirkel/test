@@ -1,6 +1,9 @@
-_site
-.sass-cache
-.jekyll-cache
-*.gem
+.DS_Store
 .bundle
+.jekyll-cache
+.project
+.sass-cache
+.settings/
+*.gem
+_site
 vendor/bundle
